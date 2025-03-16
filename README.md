@@ -41,7 +41,7 @@
   ## 🌎 **Redes Sociais**  
 <p align="center">
   <a href="https://www.instagram.com/seu_usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40">
+    <img src="https://github.com/FelipeCarvalho98/icons/blob/main/icons8-instagram-240.svg" alt="Instagram" width="40">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
