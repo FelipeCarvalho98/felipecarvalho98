@@ -1,16 +1,55 @@
-## Hi there 👋
+<h1 align="center">Prazer! Me chamo Felipe Carvalho, o dev mais atlético que você pode conhecer! 💪💻 Seja muito bem-vindo ao meu perfil! 😊</h1>
 
-<!--
-**FelipeCarvalho98/felipecarvalho98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+🎓 <strong>Formação Acadêmica</strong>  
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+- 🔭 Atualmente cursando <strong>Desenvolvimento de Sistemas MultiPlataforma</strong> na <em>Fatec Praia Grande</em> <br>
+- 📚✅ Formado em <strong>Informática Para Internet</strong> na <em>Etec de Praia Grande</em>  
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+📖 <strong>Atualmente aprendendo:</strong>  
+</p>
+
+<p align="center">
+🐍 Python (Django) • ☕ Java (Spring Boot) • 🛢️ Banco de dados NoSQL (MongoDB) <br>
+🌐 Já tive experiências com <strong>HTML, CSS e PHP</strong>, criando um site para uma empresa comercial!  
+</p>
+
+<p align="center">
+🗣️ <strong>Línguas Faladas:</strong>  
+</p>
+
+<p align="center">
+<img height="15" width="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/br.svg"> Português </p> 
+<p align="Center"><img height="15" width="20" src="https://github.com/hampusborgos/country-flags/blob/main/svg/us.svg"> Inglês  
+</p>
+
+<p align="center">
+🥋 <strong>Atleta de Karatê representando Praia Grande!</strong>  
+</p>
+
+<p align="center">
+🚀 <strong>Tecnologias:</strong>  
+</p>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" height="40" width="50">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="50">
+</p>
+
+<p align="center">
+📊 <strong>GitHub Stats:</strong>  
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=FelipeCarvalho98&show_icons=true&theme=tokyonight">
+</p>
