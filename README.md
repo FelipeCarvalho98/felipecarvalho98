@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-🐍 Python (Django) • ☕ Java (Spring Boot) • 🛢️ Banco de dados NoSQL (MongoDB) <br>
+🐍 Python (Django) • ☕ Java (Spring Boot) • 🛢️ Banco de dados NoSQL (MongoDB) • 🛢️ Banco de dados SQL (MySQL/PostgreSQL) <br>
 🌐 Já tive experiências com <strong>HTML, CSS e PHP</strong>, criando um site para uma empresa comercial!  
 </p>
 
@@ -54,6 +54,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="40" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="40" width="50">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="40" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" width="50">
 </p>
