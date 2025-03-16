@@ -35,15 +35,15 @@
 🌎<strong>Redes Sociais:</strong>
 </p>
 <p align="center">
-  <a href="https://www.instagram.com/seu_usuario" target="blank">
+  <a href="https://www.instagram.com/felipe.carvalhoo__" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/FelipeCarvalho98/icons/blob/main/instagram.png" alt="Instagram" width="40">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/seu_usuario" target="blank">
+  <a href="https://www.linkedin.com/in/felipe-carvalho-516ab82b5/" target="_blank" rel="noopener noreferrer" >
     <img src="https://github.com/FelipeCarvalho98/icons/blob/main/linkedin.png" alt="LinkedIn" width="40">
   </a>
   &nbsp;
-  <a href="https://github.com/FelipeCarvalho98" target="blank">
+  <a href="https://github.com/FelipeCarvalho98" target="_blank" rel="noopener noreferrer">
     <img src="https://github.com/FelipeCarvalho98/icons/blob/main/github.png" alt="GitHub" width="40">
   </a>
 </p>
