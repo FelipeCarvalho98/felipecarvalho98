@@ -33,28 +33,20 @@
 
 <p align="center">
 🌎<strong>Redes Sociais:</strong>
-
 </p>
-
 <p align="center">
-🚀 <strong>Tecnologias:</strong>  
-  ## 🌎 **Redes Sociais**  
-<p align="center">
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
-    <img src="https://github.com/FelipeCarvalho98/icons/blob/main/icons8-instagram-240.svg" alt="Instagram" width="40">
+  <a href="https://www.instagram.com/seu_usuario" target="blank">
+    <img src="https://github.com/FelipeCarvalho98/icons/blob/main/instagram.png" alt="Instagram" width="40">
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/seu_usuario" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40">
+  <a href="https://www.linkedin.com/in/seu_usuario" target="blank">
+    <img src="https://github.com/FelipeCarvalho98/icons/blob/main/linkedin.png" alt="LinkedIn" width="40">
   </a>
   &nbsp;
-  <a href="https://github.com/FelipeCarvalho98" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40">
+  <a href="https://github.com/FelipeCarvalho98" target="blank">
+    <img src="https://github.com/FelipeCarvalho98/icons/blob/main/github.png" alt="GitHub" width="40">
   </a>
 </p>
-
-</p>
-
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="40" width="50">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="50">
